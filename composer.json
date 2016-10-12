@@ -1,0 +1,26 @@
+{
+  "name" : "petrovegor/PhanPsr0",
+  "description" : "Phan plugin",
+  "version": "0.1",
+  "homepage": "https://github.com/Sentoki/phan-psr0",
+  "type" : "phan-extension",
+  "authors" : [{
+    "name" : "Egor Petrov",
+    "email" : "zero.sentoki@gmail.com"
+  }],
+  "keywords" : [
+    "phun plugin"
+  ],
+  "license" : [
+    "MIT"
+  ],
+  "require" : {
+    "php": ">=7.0",
+  },
+  "autoload" : {
+    "psr-4": {
+      "src\\": ""
+    }
+  }
+}
+
