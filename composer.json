@@ -4,10 +4,15 @@
   "version": "0.1",
   "homepage": "https://github.com/Sentoki/phan-psr0",
   "type" : "phan-extension",
-  "authors" : [{
+  "authors" : [
+    {
     "name" : "Egor Petrov",
     "email" : "zero.sentoki@gmail.com"
-  }],
+    },
+    {
+      "name" : "EkaterinaPhp",
+      "email" : "developer.mail.work@gmail.com"
+    }],
   "keywords" : [
     "phun plugin"
   ],
